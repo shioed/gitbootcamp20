@@ -6,3 +6,4 @@ eee
 conflict
 hoge
 susumeta
+foo!
