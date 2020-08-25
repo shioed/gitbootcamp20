@@ -7,3 +7,4 @@ conflict
 hoge
 branch of master
 foo!
+1
