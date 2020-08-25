@@ -8,3 +8,5 @@ hoge
 branch of master
 foo!
 1
+2
+3
